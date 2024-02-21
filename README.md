@@ -3,7 +3,7 @@
 Hi, I'm Martin. I'm a software engineer working on transparency.
 I'm a core maintainer of Google Certificate Tranparency logs,
 [Trillian](https://github.com/google/trillian), and many of the
-libraries under [transparency.dev](https://github.com/transparency-dev).
+libraries under [transparency-dev](https://github.com/transparency-dev).
 
 I'm the author of the [Claimant Model](https://transparency.dev/how-to-design-a-verifiable-system/),
 which is a framework for understanding and communicating about transparency solutions.
