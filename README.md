@@ -10,7 +10,7 @@ which is a framework for understanding and communicating about transparency solu
 
 My current focus is delivering a common [log witness](https://github.com/transparency-dev/witness)
 that can be easily deployed. This is the
-[armored witness](https://github.com/transparency.dev/armored-witness), a hardware device that
+[armored witness](https://github.com/transparency-dev/armored-witness), a hardware device that
 uses secure boot to provide a tamper-proof witness solution.
 This uses the [checkpoint distributor](https://github.com/transparency-dev/distributor) as a way
 to make available the witnessed checkpoints.
